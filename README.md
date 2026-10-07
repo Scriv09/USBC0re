@@ -4,6 +4,6 @@ A graphical USB file browser and Lua payload launcher for PS4/PS5 built on top o
 
 # Requirements
 
-PS4 or PS5 console
-[LuaC0re](https://github.com/Gezine/Luac0re) set up and working
-Star Wars Racer Revenge — US (CUSA03474) or EU (CUSA03492) disc or digital
+* PS4 or PS5 console
+* [LuaC0re](https://github.com/Gezine/Luac0re) set up and working
+* Star Wars Racer Revenge — US (CUSA03474) or EU (CUSA03492) disc or digital
