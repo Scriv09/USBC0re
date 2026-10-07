@@ -8,6 +8,12 @@ A graphical USB file browser and Lua payload launcher for PS4/PS5 built on top o
 * [LuaC0re](https://github.com/Gezine/Luac0re) set up and working
 * Star Wars Racer Revenge — US (CUSA03474) or EU (CUSA03492) disc or digital
 
+#Usage
+
+Send the payload to your console using RemoteLuaLoader, or rename the payload to auto.lua and place it inside the lua folder in your Luac0re save file.
+
+Once the file is in place, encrypt the save file and transfer it back to your console.
+
 # Credits
 
 * [Gezine](https://github.com/Gezine/Luac0re) — LuaC0re framework and JIT exploit
