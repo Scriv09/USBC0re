@@ -14,4 +14,4 @@ A graphical USB file browser and Lua payload launcher for PS4/PS5 built on top o
 * [shahrilnet](https://github.com/shahrilnet) & [null_ptr](https://github.com/n0llptr) - Code references from remote_lua_loader
 * [ChampionLeake](https://github.com/ChampionLeake) - PS2 Star Wars Racer Revenge exploit writeup on psdevwiki
 * [McCaulay](https://github.com/McCaulay) - [mast1c0re](https://mccaulay.co.uk/mast1c0re-part-2-arbitrary-ps2-code-execution/) writeup and Okage reference implementation
-* [CTurt]((https://github.com/CTurt)) - mast1c0re writeup
+* [CTurt](https://github.com/CTurt) - mast1c0re writeup
