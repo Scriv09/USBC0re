@@ -16,7 +16,7 @@ Send the payload to your console using RemoteLuaLoader.
 
 Alternatively, rename the payload to auto.lua, decrypt your Luac0re save file, and place the payload inside the lua folder.
 
-Once the payload is in place, re-encrypt the save file and transfer it back to your console. The payload will then automatically boot when the exploit is ran.
+Once the payload is in place, re-encrypt the save file and transfer it back to your console. The payload will then automatically boot when the exploit is run.
 
 # Credits
 
