@@ -12,9 +12,11 @@ A graphical USB file browser and Lua payload launcher for PS4/PS5 built on top o
 
 # Usage
 
-Send the payload to your console using RemoteLuaLoader, or rename the payload to auto.lua and place it inside the lua folder in your Luac0re save file.
+Send the payload to your console using RemoteLuaLoader.
 
-Once the file is in place, encrypt the save file and transfer it back to your console.
+Alternatively, rename the payload to auto.lua, decrypt your Luac0re save file, and place the payload inside the lua folder.
+
+Once the payload is in place, re-encrypt the save file and transfer it back to your console.
 
 # Credits
 
